@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Engineernig, National Taiwan University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018: Performance Engineer Intern
+  * Tencent
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
