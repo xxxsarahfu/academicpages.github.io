@@ -207,7 +207,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: Leadership and clubs
+      type: teaching
     values:
       layout: single
       author_profile: true
