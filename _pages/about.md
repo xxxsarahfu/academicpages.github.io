@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*combine IoT edge-computing and cloud computing to meet a forseeable demand*
+*"Combine IoT edge-computing and cloud computing to meet a forseeable demand."*
 
 About me
 ======
