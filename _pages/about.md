@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Anout me
+About me
 ======
-Hello, Welcome to my website! I am Fu-Hsuan (Sarah) Liu, a 22 year-old undergraduate student of Electrical Engineering Department at National Taiwan University. 
+Hello, Welcome to my website! I am Fu-Hsuan (Sarah) Liu, a 22 year-old undergraduate student of Electrical Engineering Department at National Taiwan University. <br/>
 My research areas mainly spanned from embedded systems, wireless networks and signal data processing. I am also interested in bioengineering and UI design in web programming. 
 I have rich experience in cloud enterprise and have interned at Microsoft and Tencent from 2017 to 2018.
 My goal is to combine IoT edge-computing and cloud computing to meet a forseeable demand.  
