@@ -12,21 +12,17 @@ redirect_from:
 
 About me
 ======
-Hello, Welcome to my website! I am a 22 year-old undergraduate student of Electrical Engineering Department at National Taiwan University. <br/>
+Hello, Welcome to my website! I am a 23 year-old undergraduate student of Electrical Engineering Department at National Taiwan University. <br/> I want to combine IoT edge-computing and cloud computing to realize a ultraefiicient world. :grin:
 My research areas mainly spanned from embedded systems, wireless networks and signal data processing. I am also interested in bioengineering and UI design in web programming. <br/>
-I have rich experience in cloud enterprise and have interned at Microsoft and Tencent from 2017 to 2018. <br/>
+I have rich enterprise experience in cloud enterprise and have interned at [Microsoft](https://www.microsoft.com/zh-tw/) and [Tencent](https://www.tencent.com/zh-cn/index.html) from 2017 to 2018. <br/>
 
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Internet of Things - edge computing, wireless networking, data pre-processing, gateway
+2. Cloud Computing - Docker & Kubernetes techniques, cloud platform and services, etc.
+3. Software Engineering - performance engineering, computer systems
+4. Web UI
+5. Bioengineering 
+7. Artificial and Machine Learning knowledge/techniques
 
