@@ -19,7 +19,7 @@ I have rich enterprise experience in cloud enterprise and have interned at [Micr
 
 Research Interests
 ======
-1. Internet of Things - edge computing, wireless networking, data pre-processing, gateway
+1. Internet of Things - embedded systems, edge computing, wireless networking, data pre-processing.
 2. Cloud Computing - Docker & Kubernetes techniques, cloud platform and services, etc.
 3. Software Engineering - performance engineering, computer systems
 4. Web UI
@@ -30,4 +30,4 @@ Research Interests
 Employment Expereince
 ======
 1. Microsoft, Taipei (2017-2018)- Software Engineering R&D intern in Departemnt of Cloud & Enterprise (C+E), Hybrid Cloud and IoT Team.
-2. Tencent, ShenZhen (2018) - Software Test/Performance Engineer intern in Department of Cloud and Smart Industries Group, Tencent Cloud (QCloud).
+2. Tencent, ShenZhen (2018) - Software Test/Performance Engineer intern in Department of Cloud and Smart Industries Group (CSIG), Tencent QCloud.
