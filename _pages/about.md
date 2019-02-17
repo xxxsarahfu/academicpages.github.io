@@ -26,3 +26,8 @@ Research Interests
 5. Bioengineering 
 7. Artificial and Machine Learning knowledge/techniques
 
+
+Employment Expereince
+======
+1. Microsoft, Taipei (2017-2018)- Software Engineering R&D intern in Departemnt of Cloud & Enterprise (C+E), Hybrid Cloud and IoT Team.
+2. Tencent, ShenZhen (2018) - Software Test/Performance Engineer intern in Department of Cloud and Smart Industries Group, Tencent Cloud (QCloud).
