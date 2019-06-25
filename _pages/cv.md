@@ -11,10 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical and Engineernig, National Taiwan University, 2014
+* M.S. in Computer Engineering, New York University, 2019-Present
+* B.S. in Electrical Engineernig, National Taiwan University, 2014-2018
 
 Work experience
 ======
+* Mar-Aug 2019: Software Engineer
+  * MyTek Electronic Corp.
+  * Duties included: Devloped an app for SD cards Mass Production (SDMP).
+  * Supervisor: Bobo Yang
+
 * Summer 2018: Performance Engineer Intern
   * Tencent
   * Duties included: Tagging issues
