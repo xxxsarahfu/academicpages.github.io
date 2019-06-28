@@ -17,7 +17,7 @@ My research areas mainly spanned from IoT embedded systems, wireless networks an
 I have rich enterprise experience in cloud enterprise and have interned at [Microsoft](https://www.microsoft.com/zh-tw/) and [Tencent](https://www.tencent.com/zh-cn/index.html) from 2017 to 2018. <br/>
 :grin:
 
-<br></br><br></br><br></br>
+<br><br>
 
 
 Specialization
